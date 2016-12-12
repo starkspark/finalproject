@@ -1,0 +1,185 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+    background-color: #f4f6f8;
+}
+
+.logo {
+    text-align: center; 
+}
+
+.nav {
+    border-style: solid;
+    border-width: 1px 0px 1px 0px;
+    border-color: gainsboro;
+    text-align: center;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom: 3%;
+    padding-top: 1%;
+    text-transform: uppercase;
+}
+
+.well {
+    height: auto;
+    text-align: center;
+    margin-bottom: 3%;
+    box-shadow: 0px 0px 5px #777777;
+}
+
+li {
+    display: inline;
+    margin: 15px;
+    padding: 15px;
+}
+
+h1 {
+    font-family: luna;
+    font-size: 25px;
+    color: black;
+    text-align: left;
+    margin-top: 4%;
+    margin-bottom: 2%;
+    margin-left: 2%;
+}
+
+#top {
+    margin-bottom: %;
+}
+
+p.header-box {
+    border-style: solid;
+    border-width: 1px 0px 1px 0px;
+    border-color: gainsboro;
+    box-shadow: 0px 0px 5px #777777;
+    background: #000000;
+    opacity: 0.5;
+    text-align: center;
+    margin-top: -7%;
+    margin-left: 42.5%;
+    margin-bottom: 4%;
+    width: 15%;
+    font-size: 25;
+    padding-top: 1%;
+    color: white;
+    font-family: shorelines script bold;
+}
+
+.social {
+    border-style: double;
+    border-color: dimgrey;
+    box-shadow: 0px 0px 5px #777777;
+    float: right;
+    margin-bottom: 1%;
+    text-align: center;
+    margin-right: 1%;
+    padding-top: 1%;
+    width: 17%;
+    font-size: 16px;
+}
+
+
+.signup {
+    /*text-align: right;*/
+    margin-left: 1%;
+    /*float: right;*/
+    margin-bottom: 1%;
+    font-size: 13px;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-size: 15px;
+    padding-bottom: 2%;
+}
+
+#quote {
+    margin-bottom: 2%;
+}
+
+.divider {
+    border-top: solid;
+    border-width: 1px 0px 1px 0px;
+    border-top-color: gainsboro;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 3%;
+    padding-top: 1%;
+}
+
+#articles {
+    margin-left: 2%;
+    padding-top:2%;
+    width: 70%;
+}
+
+.centered {
+    float: left;
+}
+
+#balance {
+    display: inline;
+}
+
+.row1{
+    display: inline;
+}
+
+p.khaled {
+    font-size: 17px;
+}
+
+.like-Unlike {
+    padding-top: 5%;
+}
+
+.topic {
+    font-size: 16px;
+    color: gray;
+    font-weight: bold;
+}
+
+/*Simple reset*/
+* {margin: 0; padding: 0;}
+
+p {
+    margin-left: 7%;
+    margin-bottom: 4%; 
+    margin-right: 7%;
+}
+
+h2 {
+    margin-left: 2%;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.info {
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-top: 3%;
+}
+.about, .newsletter, .contact {
+    text-align: center;
+    
+}
+
+.newsletter {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+
+#footer {
+    border-width: 1px 0px 1px 0px;
+    border-color: gainsboro;
+    text-align: center;
+    text-transform: uppercase;
+    display: inline;
+    margin-left: 100%;
+    
+}
